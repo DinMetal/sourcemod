@@ -1,0 +1,16 @@
+// This is the topmost base file
+
+"config"
+{
+	"console"
+	{
+	}
+	"entity_base_coop"
+	{
+		// Unwanted and bugs players
+		"remove"
+		{
+			"classname" "player_loadsaved"
+		}
+	}
+}

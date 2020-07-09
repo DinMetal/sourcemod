@@ -1,0 +1,88 @@
+L 06/16/2020 - 19:03:16: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 19:03:16: -------- Mapchange to yc_c1a1b --------
+L 06/16/2020 - 19:04:43: -------- Mapchange to yc_c1a1a --------
+L 06/16/2020 - 19:05:55: -------- Mapchange to bmc_c1a1a --------
+L 06/16/2020 - 19:09:30: Log file closed.
+L 06/16/2020 - 19:18:49: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 19:18:49: -------- Mapchange to yc_c1a1b --------
+L 06/16/2020 - 19:20:15: [SM] Changed map to "yc_c1a1c"
+L 06/16/2020 - 19:20:15: "Targon<3><[U:1:55645864]><>" was already connected to the server.
+L 06/16/2020 - 19:21:05: Log file closed.
+L 06/16/2020 - 20:56:45: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 20:56:45: [SM] Changed map to "yc_c1a1c"
+L 06/16/2020 - 20:56:46: "Targon<2><[U:1:55645864]><>" was already connected to the server.
+L 06/16/2020 - 20:58:22: Log file closed.
+L 06/16/2020 - 21:42:10: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 21:42:10: -------- Mapchange to yc_c1a0a --------
+L 06/16/2020 - 21:46:46: [SM] Changed map to "bm_c1a0b"
+L 06/16/2020 - 21:46:47: -------- Mapchange to bm_c1a0b --------
+L 06/16/2020 - 21:51:09: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 21:51:09: -------- Mapchange to bm_c4a1a --------
+L 06/16/2020 - 21:57:28: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 21:57:28: -------- Mapchange to yc_c1a0a --------
+L 06/16/2020 - 22:01:39: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 22:01:39: [SM] Changed map to "yc_c1a0b"
+L 06/16/2020 - 22:01:42: -------- Mapchange to yc_c1a0b --------
+L 06/16/2020 - 22:08:48: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 22:08:48: -------- Mapchange to bm_c3a2i --------
+L 06/16/2020 - 22:20:24: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 22:20:24: [SM] Changed map to "bm_c1a0b"
+L 06/16/2020 - 22:20:25: -------- Mapchange to bm_c1a0b --------
+L 06/16/2020 - 22:27:33: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 22:27:33: [SM] Changed map to "yc_c1a0b"
+L 06/16/2020 - 22:27:34: -------- Mapchange to yc_c1a0b --------
+L 06/16/2020 - 22:34:31: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 22:34:31: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 22:34:33: -------- Mapchange to yc_c1a1a --------
+L 06/16/2020 - 22:41:17: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 22:41:17: [SM] Changed map to "yc_c1a0b"
+L 06/16/2020 - 22:41:18: -------- Mapchange to yc_c1a0b --------
+L 06/16/2020 - 22:48:12: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 22:48:12: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 22:48:13: -------- Mapchange to yc_c1a1a --------
+L 06/16/2020 - 22:51:08: -------- Mapchange to yc_c1a1b --------
+L 06/16/2020 - 23:01:36: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 23:01:36: [SM] Changed map to "yc_c1a0b"
+L 06/16/2020 - 23:01:37: -------- Mapchange to yc_c1a0b --------
+L 06/16/2020 - 23:01:37: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:01:37: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:01:37: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:08:12: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 23:08:12: [SM] Changed map to "yc_c1a1a"
+L 06/16/2020 - 23:08:13: -------- Mapchange to yc_c1a1a --------
+L 06/16/2020 - 23:08:13: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:08:13: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:08:13: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:10:17: -------- Mapchange to yc_c1a1a --------
+L 06/16/2020 - 23:10:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:10:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:10:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:15:37: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 23:15:37: [SM] Changed map to "yc_c0a0b"
+L 06/16/2020 - 23:15:47: -------- Mapchange to yc_c0a0b --------
+L 06/16/2020 - 23:15:47: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:15:47: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:15:47: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:19:23: [SM] Changed map to "yc_c0a0c"
+L 06/16/2020 - 23:19:27: -------- Mapchange to yc_c0a0c --------
+L 06/16/2020 - 23:19:27: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:19:27: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:19:27: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:22:40: [SM] Changed map to "yc_c1a0a"
+L 06/16/2020 - 23:22:40: [SM] Changed map to "yc_c1a0a"
+L 06/16/2020 - 23:22:42: -------- Mapchange to yc_c1a0a --------
+L 06/16/2020 - 23:22:42: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:22:42: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:22:42: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:26:06: [SM] Changed map to "yc_c1a0b"
+L 06/16/2020 - 23:26:08: -------- Mapchange to yc_c1a0b --------
+L 06/16/2020 - 23:26:08: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:26:08: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:26:08: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:36:15: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200616.log") (Version "1.11.0.6562")
+L 06/16/2020 - 23:36:15: [SM] Changed map to "yc_c1a1b"
+L 06/16/2020 - 23:36:17: -------- Mapchange to yc_c1a1b --------
+L 06/16/2020 - 23:36:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 06/16/2020 - 23:36:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 06/16/2020 - 23:36:17: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 06/16/2020 - 23:40:13: Log file closed.

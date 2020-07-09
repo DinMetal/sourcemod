@@ -1,0 +1,119 @@
+L 06/16/2020 - 19:02:25: SourceMod error session started
+L 06/16/2020 - 19:02:25: Info (map "yc_c1a1b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 19:02:25: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 19:03:16: Error log file session closed.
+L 06/16/2020 - 19:10:09: SourceMod error session started
+L 06/16/2020 - 19:10:09: Info (map "yc_c1a1b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 19:10:09: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 19:18:49: Error log file session closed.
+L 06/16/2020 - 20:50:47: SourceMod error session started
+L 06/16/2020 - 20:50:47: Info (map "yc_c1a1b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 20:50:47: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 20:57:25: SourceMod error session started
+L 06/16/2020 - 20:57:25: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 20:57:25: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 20:58:22: Error log file session closed.
+L 06/16/2020 - 20:59:24: SourceMod error session started
+L 06/16/2020 - 20:59:24: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 20:59:24: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:00:04: SourceMod error session started
+L 06/16/2020 - 21:00:04: Info (map "background05") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:00:04: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:00:08: [SM] Exception reported: Could not get gamerules pointer
+L 06/16/2020 - 21:00:08: [SM] Blaming: srccoop.smx
+L 06/16/2020 - 21:00:08: [SM] Call stack trace:
+L 06/16/2020 - 21:00:08: [SM]   [0] DHookGamerules
+L 06/16/2020 - 21:00:08: [SM]   [1] Line 196, E:\SteamLibrary\steamapps\common\Black Mesa Dedicated Server\bms\addons\sourcemod\scripting\SourceCoop\scripting\srccoop.sp::OnMapStart
+L 06/16/2020 - 21:38:44: SourceMod error session started
+L 06/16/2020 - 21:38:44: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:38:44: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:39:12: SourceMod error session started
+L 06/16/2020 - 21:39:12: Info (map "yc_c1a1b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:39:12: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:39:41: Error log file session closed.
+L 06/16/2020 - 21:40:09: SourceMod error session started
+L 06/16/2020 - 21:40:09: Info (map "background05") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:40:09: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:40:14: [SM] Exception reported: Could not get gamerules pointer
+L 06/16/2020 - 21:40:14: [SM] Blaming: srccoop.smx
+L 06/16/2020 - 21:40:14: [SM] Call stack trace:
+L 06/16/2020 - 21:40:14: [SM]   [0] DHookGamerules
+L 06/16/2020 - 21:40:14: [SM]   [1] Line 196, E:\SteamLibrary\steamapps\common\Black Mesa Dedicated Server\bms\addons\sourcemod\scripting\SourceCoop\scripting\srccoop.sp::OnMapStart
+L 06/16/2020 - 21:40:25: SourceMod error session started
+L 06/16/2020 - 21:40:25: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:40:25: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:42:10: Error log file session closed.
+L 06/16/2020 - 21:51:09: Error log file session closed.
+L 06/16/2020 - 21:56:18: SourceMod error session started
+L 06/16/2020 - 21:56:18: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:56:18: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:56:38: SourceMod error session started
+L 06/16/2020 - 21:56:38: Info (map "background10") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:56:38: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:56:42: [SM] Exception reported: Could not get gamerules pointer
+L 06/16/2020 - 21:56:42: [SM] Blaming: srccoop.smx
+L 06/16/2020 - 21:56:42: [SM] Call stack trace:
+L 06/16/2020 - 21:56:42: [SM]   [0] DHookGamerules
+L 06/16/2020 - 21:56:42: [SM]   [1] Line 196, E:\SteamLibrary\steamapps\common\Black Mesa Dedicated Server\bms\addons\sourcemod\scripting\SourceCoop\scripting\srccoop.sp::OnMapStart
+L 06/16/2020 - 21:56:54: SourceMod error session started
+L 06/16/2020 - 21:56:54: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:56:54: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 21:57:28: Error log file session closed.
+L 06/16/2020 - 21:58:24: SourceMod error session started
+L 06/16/2020 - 21:58:24: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 21:58:24: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:01:42: Error log file session closed.
+L 06/16/2020 - 22:02:47: SourceMod error session started
+L 06/16/2020 - 22:02:47: Info (map "yc_c1a0b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:02:47: [SM] Exception reported: Script execution timed out
+L 06/16/2020 - 22:02:47: [SM] Blaming: srccoop.smx
+L 06/16/2020 - 22:02:47: [SM] Call stack trace:
+L 06/16/2020 - 22:02:47: [SM]   [1] Line 14, E:\SteamLibrary\steamapps\common\Black Mesa Dedicated Server\bms\addons\sourcemod\scripting\SourceCoop\scripting\include\srccoop/entitypatch.inc::Hook_UTIL_GetLocalPlayer
+L 06/16/2020 - 22:08:48: Error log file session closed.
+L 06/16/2020 - 22:11:01: SourceMod error session started
+L 06/16/2020 - 22:11:01: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:11:01: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:12:10: SourceMod error session started
+L 06/16/2020 - 22:12:10: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:12:10: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:16:49: SourceMod error session started
+L 06/16/2020 - 22:16:49: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:16:49: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:20:25: Error log file session closed.
+L 06/16/2020 - 22:25:08: SourceMod error session started
+L 06/16/2020 - 22:25:08: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:25:08: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:27:34: Error log file session closed.
+L 06/16/2020 - 22:38:50: SourceMod error session started
+L 06/16/2020 - 22:38:50: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:38:50: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 22:41:18: Error log file session closed.
+L 06/16/2020 - 22:58:39: SourceMod error session started
+L 06/16/2020 - 22:58:39: Info (map "yc_c1a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 22:58:39: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 23:01:37: Error log file session closed.
+L 06/16/2020 - 23:08:37: SourceMod error session started
+L 06/16/2020 - 23:08:37: Info (map "yc_c1a1a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:08:37: [SM] Exception reported: Script execution timed out
+L 06/16/2020 - 23:08:37: [SM] Blaming: srccoop.smx
+L 06/16/2020 - 23:08:37: [SM] Call stack trace:
+L 06/16/2020 - 23:08:37: [SM]   [1] Line 252, E:\SteamLibrary\steamapps\common\Black Mesa Dedicated Server\bms\addons\sourcemod\scripting\SourceCoop\scripting\include\srccoop/entitypatch.inc::Hook_PointViewcontrolAcceptInput
+L 06/16/2020 - 23:10:17: Error log file session closed.
+L 06/16/2020 - 23:13:47: SourceMod error session started
+L 06/16/2020 - 23:13:47: Info (map "yc_c0a0a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:13:47: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 23:15:47: Error log file session closed.
+L 06/16/2020 - 23:27:45: SourceMod error session started
+L 06/16/2020 - 23:27:45: Info (map "yc_c1a0b") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:27:45: [SM] Exception reported: Script execution timed out
+L 06/16/2020 - 23:28:17: SourceMod error session started
+L 06/16/2020 - 23:28:17: Info (map "yc_c1a1a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:28:17: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 23:29:24: [SM] Exception reported: Script execution timed out
+L 06/16/2020 - 23:31:00: SourceMod error session started
+L 06/16/2020 - 23:31:00: Info (map "yc_c1a1a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:31:00: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 23:33:06: SourceMod error session started
+L 06/16/2020 - 23:33:06: Info (map "yc_c1a1a") (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\errors_20200616.log")
+L 06/16/2020 - 23:33:06: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 06/16/2020 - 23:36:17: Error log file session closed.

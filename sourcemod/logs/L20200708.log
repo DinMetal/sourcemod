@@ -1,0 +1,33 @@
+L 07/08/2020 - 00:04:19: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200708.log") (Version "1.11.0.6562")
+L 07/08/2020 - 00:04:19: [SM] Changed map to "yc_c4a3a"
+L 07/08/2020 - 00:04:29: -------- Mapchange to yc_c4a3a --------
+L 07/08/2020 - 00:04:29: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_enabled 1"")
+L 07/08/2020 - 00:04:29: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_team scientist"")
+L 07/08/2020 - 00:04:29: [basecommands.smx] "Console<0><Console><Console>" console command (cmdline ""sm_coop_start_wait_period 10"")
+L 07/08/2020 - 22:39:15: SourceMod log file session started (file "D:\Games\steamapps\common\Black Mesa\bms\addons\sourcemod\logs\L20200708.log") (Version "1.11.0.6562")
+L 07/08/2020 - 22:39:15: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 22:43:13: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 22:45:37: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 22:46:35: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 22:48:55: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 22:58:54: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 23:02:02: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 23:04:31: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 23:08:43: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 23:12:12: -------- Mapchange to yc_lobby --------
+L 07/08/2020 - 23:13:18: -------- Mapchange to yc_c0a0a --------
+L 07/08/2020 - 23:15:52: -------- Mapchange to bm_c1a2a --------
+L 07/08/2020 - 23:17:45: -------- Mapchange to bm_c1a3a --------
+L 07/08/2020 - 23:18:33: -------- Mapchange to bm_c1a4a --------
+L 07/08/2020 - 23:27:16: -------- Mapchange to bm_c2a1a --------
+L 07/08/2020 - 23:28:10: -------- Mapchange to bm_c2a2a --------
+L 07/08/2020 - 23:29:00: -------- Mapchange to bm_c2a3a --------
+L 07/08/2020 - 23:29:57: -------- Mapchange to bm_c2a4a --------
+L 07/08/2020 - 23:31:04: -------- Mapchange to bm_c2a4e --------
+L 07/08/2020 - 23:31:51: -------- Mapchange to bm_c2a5a --------
+L 07/08/2020 - 23:47:07: -------- Mapchange to bm_c3a1a --------
+L 07/08/2020 - 23:47:49: -------- Mapchange to bm_c3a2a --------
+L 07/08/2020 - 23:48:24: -------- Mapchange to bm_c4a1a --------
+L 07/08/2020 - 23:49:17: -------- Mapchange to bm_c3a2a --------
+L 07/08/2020 - 23:55:27: -------- Mapchange to bm_c4a2a --------
+L 07/08/2020 - 23:56:37: -------- Mapchange to bm_c4a3a --------

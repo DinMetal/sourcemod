@@ -1,0 +1,16 @@
+#base "base\bm_sp_campaign.edt"
+
+"config"
+{
+	"nextmap"		"yc_c3a1b"
+	"equipment"
+	{
+		"suit" "1"	
+	}
+	"entity"
+	{
+	}
+	"checkpoint"
+	{
+	}
+}
